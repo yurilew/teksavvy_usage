@@ -29,4 +29,4 @@ following lines to your crontab:
 
    0 1 * * * /usr/bin/python ABSOLUTE_PATH_TO_DIRECTORY_WHERE_USAGE_SCRIPT_IS_LOCATED/teksavvy_usage.py --notify-current
 
-This will cause the *teksavvy_usage.py* script to be run everyday at 1am.
+This will cause the *teksavvy_usage.py* script to be run every day at 1am.

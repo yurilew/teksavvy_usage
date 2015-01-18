@@ -60,7 +60,7 @@ def _load_api_key():
 
     The key could have been included as a "constant",
     however in this case it would have been a bad idea.
-    Someone would inevitably forgot to remove their key
+    Someone would inevitably forget to remove their key
     before submitting and then it would become part of
     the commit history.
 
